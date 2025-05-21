@@ -123,6 +123,9 @@ Write C Program to find Sum of each row of a Matrix
 ```
 
 ## OUTPUT
+
+
+
 ![image](https://github.com/user-attachments/assets/3f582d90-2843-4287-b044-fbab68890e11)
 
 
